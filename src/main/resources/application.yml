@@ -1,0 +1,13 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/springCrud
+#    username: root
+#    password: Rode@72368
+#    driver-class-name: com.mysql.cjdbc.Driver 
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#          dialect: org.hibernate.dialect.MySQl5Dialect
